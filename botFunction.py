@@ -14,10 +14,10 @@ from datetime import datetime
 app = Flask(__name__)
 
 # === Twilio Credentials ===
-TWILIO_ACCOUNT_SID = "ACb3d9f995c6baa274bf736d2049ab53dd"
-TWILIO_AUTH_TOKEN = "993e8c51ba1ad705193a36341b23d706"
+TWILIO_ACCOUNT_SID = "AC.............."
+TWILIO_AUTH_TOKEN = "9.............6"
 TWILIO_PHONE_NUMBER = "whatsapp:+14155238886"  # Twilio Sandbox Number
-CONTENT_SID = "HX670412ff7a7dbea9e150e8803b94e495"  # Replace with your Content SID
+CONTENT_SID = "HX................."  # Replace with your Content SID
 
 client_twilio = Client(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN)
 
