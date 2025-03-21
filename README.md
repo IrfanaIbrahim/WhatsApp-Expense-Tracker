@@ -3,7 +3,7 @@ A simple yet powerful WhatsApp bot to track expenses effortlessly! This bot allo
 
 **Features**
 
-✅ Add Expense – Quickly log expenses with just a message.
+✅ Add Expense – Quickly log expenses with just a message.\
 ✏️ Modify Expense – Update existing records easily.
 ❌ Remove Expense – Delete expenses by ID or date.
 📊 Check Status – View total expenses for a specific date or range.
@@ -14,3 +14,6 @@ A simple yet powerful WhatsApp bot to track expenses effortlessly! This bot allo
 Python (Flask for backend) 
 Google Sheets API (To store and manage expense data) 
 Twilio API (For WhatsApp integration)
+
+**Setup & Details**
+For a complete setup guide and detailed explanation, check out my blog [insert blog link here].
