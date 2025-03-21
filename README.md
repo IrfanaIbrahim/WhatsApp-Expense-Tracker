@@ -11,7 +11,7 @@ A simple yet powerful WhatsApp bot to track expenses effortlessly! This bot allo
 **Tech Stack** \
 Python (Flask for backend)\
 Google Sheets API (To store and manage expense data)\
-Twilio API (For WhatsApp integration)\
+Twilio API (For WhatsApp integration)
 
 **Setup & Details**\
 For a complete setup guide and detailed explanation, check out my blog [insert blog link here].
