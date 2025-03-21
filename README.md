@@ -9,8 +9,8 @@ A simple yet powerful WhatsApp bot to track expenses effortlessly! This bot allo
 💰 Set Monthly Budget – Define a budget and track spending to stay within limits.
 
 **Tech Stack** \
-Python (Flask for backend)\ 
-Google Sheets API (To store and manage expense data)\ 
+Python (Flask for backend)\
+Google Sheets API (To store and manage expense data)\
 Twilio API (For WhatsApp integration)\
 
 **Setup & Details**\
