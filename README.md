@@ -1,7 +1,7 @@
 # WhatsApp-Expense-Tracker
 A simple yet powerful WhatsApp bot to track expenses effortlessly! This bot allows users to log, modify, and delete expenses via WhatsApp messages, making budgeting seamless and accessible.
 
-*Features*
+**Features**
 ✅ Add Expense – Quickly log expenses with just a message.
 ✏️ Modify Expense – Update existing records easily.
 ❌ Remove Expense – Delete expenses by ID or date.
