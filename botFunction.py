@@ -16,7 +16,7 @@ app = Flask(__name__)
 # === Twilio Credentials ===
 TWILIO_ACCOUNT_SID = "AC.............."
 TWILIO_AUTH_TOKEN = "9.............6"
-TWILIO_PHONE_NUMBER = "whatsapp:+14155238886"  # Twilio Sandbox Number
+TWILIO_PHONE_NUMBER = "whatsapp:+141.......6"  # Twilio Sandbox Number
 CONTENT_SID = "HX................."  # Replace with your Content SID
 
 client_twilio = Client(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN)
